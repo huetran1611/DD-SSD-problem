@@ -1,4 +1,7 @@
-Customers 12 
+Customers: 12
+Maximum flight time of Drones: 30 minutes
+Working time: 180 minutes
+  
 Coordinate X		 Coordinate Y 		Demand 
 2.215617310974574  -4.573019635487161  1.7246026177843243  
 -0.3033928054482429  4.8759093506007005  0.6558661149577455  
